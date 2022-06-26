@@ -7,4 +7,4 @@ This container runs the guacamole web client, the guacd server and a postgres da
 - Apache Tomcat 9.0.6 (no CVE-2022-29885)
 - Guacamole 1.4.0
 - Postgressql 11
-- ghostscript included
+- ghostscript included (for virtual printing to PDF)
